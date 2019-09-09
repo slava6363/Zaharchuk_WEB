@@ -2,3 +2,4 @@ git clone https://github.com/slava6363/Zaharchuk_Web.git
 git add numbPIB.txt
 git commit -m "first commit"
 git commit -m "second commit"
+git push
