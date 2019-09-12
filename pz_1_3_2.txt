@@ -1,0 +1,8 @@
+git branch pz_1_3_1
+git checkout pz_1_3_1
+git checkout master
+git merge pz_1_3_1
+git branch -D pz_1_3_1
+git branch developer
+git checkout developer
+git push
